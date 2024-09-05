@@ -1,4 +1,4 @@
-package com.colak.springtutorial.ratelimiting;
+package com.colak.springtutorial.aspect.ratelimiting;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

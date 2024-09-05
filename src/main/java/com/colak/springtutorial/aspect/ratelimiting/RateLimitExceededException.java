@@ -1,4 +1,4 @@
-package com.colak.springtutorial.ratelimiting;
+package com.colak.springtutorial.aspect.ratelimiting;
 
 public class RateLimitExceededException extends RuntimeException {
 

@@ -1,4 +1,4 @@
-package com.colak.springtutorial.logging;
+package com.colak.springtutorial.aspect.logging;
 
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.annotation.Aspect;

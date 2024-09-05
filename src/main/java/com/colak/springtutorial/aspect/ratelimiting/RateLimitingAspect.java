@@ -1,4 +1,4 @@
-package com.colak.springtutorial.ratelimiting;
+package com.colak.springtutorial.aspect.ratelimiting;
 
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
